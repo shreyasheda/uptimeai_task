@@ -1,0 +1,3 @@
+.profile-tabs{ display:flex; gap:8px; margin-bottom:12px }
+.profile-tabs button{ padding:8px 12px; border-radius:6px; border:1px solid #e5e7eb; background:transparent; cursor:pointer }
+.profile-tabs button.active{ background:#f3f4f6; font-weight:600 }

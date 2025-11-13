@@ -1,0 +1,10 @@
+.profile-header{ background:#fff; border:1px solid #e6e6e6; padding:14px; border-radius:8px; text-align:center }
+.avatar{ width:120px; height:120px; object-fit:cover; border-radius:50% }
+.name{ margin:10px 0 4px }
+.login{ color:#6b7280 }
+.bio{ color:#374151; font-size:0.95rem }
+.metadata{ display:flex; gap:8px; justify-content:center; margin-top:10px; color:#374151 }
+.metadata div{ font-size:0.9rem }
+.profile-links{ margin-top:10px; display:flex; flex-direction:column; gap:6px; align-items:center }
+.profile-links .meta{ font-size:0.9rem }
+.link{ color:#2563eb; text-decoration:none }

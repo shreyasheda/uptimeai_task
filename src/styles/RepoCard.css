@@ -1,0 +1,5 @@
+.repo-card{ background:#fff; border:1px solid #eaeaea; padding:12px; border-radius:8px }
+.repo-top{ display:flex; justify-content:space-between; align-items:center }
+.repo-name{ font-weight:600; color:#0f172a; text-decoration:none }
+.repo-desc{ color:#4b5563; margin:8px 0 }
+.repo-meta{ display:flex; gap:10px; color:#6b7280; font-size:0.9rem }
